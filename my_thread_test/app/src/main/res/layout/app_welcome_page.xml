@@ -1,0 +1,9 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal"
+    android:background="@drawable/pagefailed_bg"
+    tools:context="com.hzqianxun.my_thread_test.AppWelcomePageActivity">
+
+</LinearLayout>
