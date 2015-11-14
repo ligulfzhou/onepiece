@@ -1,0 +1,5 @@
+2015-11-03 06:41:34,406 29883,MainThread main.py:94 [INFO] run celery tasks
+2015-11-03 06:44:42,367 29967,MainThread main.py:94 [INFO] run celery tasks
+2015-11-03 06:45:47,028 30006,MainThread main.py:94 [INFO] run celery tasks
+2015-11-03 14:08:50,812 6510,MainThread main.py:94 [INFO] run celery tasks
+2015-11-03 14:40:07,933 1671,MainThread main.py:94 [INFO] run celery tasks
